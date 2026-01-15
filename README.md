@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# car-rental-system
-=======
 # Car Rental System (Java)
 
 A console-based Car Rental System developed using Java and Object-Oriented Programming principles.
@@ -28,4 +25,4 @@ src/
 
 ## Author
 Ajit Bobhate
->>>>>>> 93cac90 (complete car rental system implementation)
+
